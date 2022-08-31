@@ -34,7 +34,9 @@ body, html {
     font-style: italic;
     border-radius: 10px;
     border-style: inherit;
-    border-width: 2px;
+    border-width: 2px
 
-
+}
+.image-body {
+    background-image: url(../img/img3.jpg);
 }
