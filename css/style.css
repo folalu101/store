@@ -1,0 +1,9 @@
+.navbar-brand {
+    position: relative;
+    right: 300px;
+}
+#nav-logo {
+    /* position: absolute;
+    left: 20px; */
+    margin-left: 280px;
+}
